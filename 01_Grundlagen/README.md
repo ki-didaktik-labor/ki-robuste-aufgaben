@@ -64,4 +64,4 @@ Diese theoretische Fundierung bildet die Basis für die Entwicklung [didaktische
 
 ---
 
-*Letzte Aktualisierung: Januar 2025*
+*Letzte Aktualisierung: Januar 2026*
