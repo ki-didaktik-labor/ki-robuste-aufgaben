@@ -37,7 +37,7 @@ Hilfestellungen für Lernende: Wie nutze ich KI verantwortungsvoll und produktiv
 
 ## 👤 Über dieses Projekt
 
-Dieses Labor wird initiiert und betreut von **David Halser**, Dozent für Medienbildung an der [Pädagogischen Hochschule Graubünden](https://www.phgr.ch).
+Dieses Labor wird initiiert und betreut von **David Halser**, Mitdenker, Dozent und Weiterbilder an der [Pädagogischen Hochschule Graubünden](https://www.phgr.ch).
 
 Das Projekt versteht sich als **offene Forschungs- und Entwicklungsarbeit** und lädt zur Diskussion, zum Feedback und zur Mitgestaltung ein.
 
