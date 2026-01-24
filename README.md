@@ -63,4 +63,4 @@ Dieses Projekt steht unter [CC BY 4.0](LICENSE) – du darfst es frei nutzen, te
 
 **Work in Progress** – Dieses Projekt ist in aktiver Entwicklung. Feedback und Austausch sind herzlich willkommen!
 
-*Letzte Aktualisierung: Januar 2025*
+*Letzte Aktualisierung: Januar 2026*
