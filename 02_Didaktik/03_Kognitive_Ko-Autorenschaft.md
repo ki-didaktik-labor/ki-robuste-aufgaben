@@ -17,7 +17,20 @@ Auch wenn KI Ideen generiert, Texte vorschlägt oder Strukturen entwickelt – d
 Es wird sichtbar gemacht, welche Teile von der KI stammen und welche vom Menschen. Ko-Autorenschaft bedeutet nicht Verschleierung, sondern **Offenlegung**.
 
 **Kritische Distanz**  
-KI-Output wird nicht unkritisch übernommen, sondern geprüft, hinterfragt, angepasst. Ko-Autorenschaft ist kritische Kooperation.
+**Kritische Distanz – und mehr**  
+KI-Output wird nicht unkritisch übernommen – aber «prüfen» ist nicht genug. 
+Es gibt eine schwache und eine starke Version von Ko-Autorenschaft:
+
+- **Schwache Version (Aufsichtspflicht):** Ich lasse die KI arbeiten und schaue 
+  danach drüber. Die KI generiert, ich kontrolliere. Ich bin Qualitätsprüfer 
+  am Ende einer Produktionskette, die ich nicht gestaltet habe.
+
+- **Starke Version (epistemische Last):** Ich bin dafür verantwortlich, was am 
+  Ende als Wissen oder Argument gilt – nicht nur dafür, ob die KI einen Fehler 
+  gemacht hat. Das bedeutet: Ich entscheide, welche Fragen relevant sind. Ich 
+  stelle Kohärenz her. Ich kann meinen Denkweg begründen.
+
+Wer nur prüft, ist kein Ko-Autor – er ist Lektor eines fremden Textes.
 
 **Iterativer Prozess**  
 Ko-Autorenschaft ist kein einmaliger Akt („Ich frage, KI antwortet, fertig"), sondern ein **dialogischer, iterativer Prozess**: Prompt → Antwort → Reflexion → Anpassung → neuer Prompt...
