@@ -16,7 +16,6 @@ Auch wenn KI Ideen generiert, Texte vorschlägt oder Strukturen entwickelt – d
 **Transparenz über Beiträge**  
 Es wird sichtbar gemacht, welche Teile von der KI stammen und welche vom Menschen. Ko-Autorenschaft bedeutet nicht Verschleierung, sondern **Offenlegung**.
 
-**Kritische Distanz**  
 **Kritische Distanz – und mehr**  
 KI-Output wird nicht unkritisch übernommen – aber «prüfen» ist nicht genug. 
 Es gibt eine schwache und eine starke Version von Ko-Autorenschaft:
@@ -150,7 +149,32 @@ Ko-Autorenschaft wirft ethische und praktische Fragen auf: Wer ist Autor:in eine
 - Der Mensch trägt Verantwortung für das Endprodukt
 
 **Analog zur Quellenarbeit:**
-So wie ich verantwortlich bin, wenn ich aus einer Quelle falsch zitiere, bin ich auch verantwortlich, wenn ich KI-Output unkritisch übernehme.
+### Was Verantwortung konkret bedeutet: Drei Dimensionen
+
+Verantwortung ist nicht abstrakt – sie zeigt sich in drei konkreten 
+Handlungsdimensionen:
+
+**1. Relevanzentscheidungen**  
+Ich entscheide, welche Fragen sinnvoll sind, welche Aspekte wichtig sind – 
+und welche ich bewusst weglasse. Das kann keine KI für mich übernehmen, 
+weil es von meinem Kontext, meinen Zwecken und meinem Vorwissen abhängt. 
+Wer diese Entscheidung der KI überlässt, übergibt ihr die epistemische 
+Führung.
+
+**2. Kohärenzverantwortung**  
+KI-Output, eigenes Wissen und externe Quellen müssen zu einem stimmigen 
+Ganzen werden. Das ist keine redaktionelle Arbeit – es ist die Arbeit, 
+Widersprüche zu erkennen, Lücken zu benennen, Verbindungen herzustellen. 
+Diese Arbeit *konstituiert* das Argument – sie findet es nicht vor.
+
+**3. Begründungspflicht**  
+Ich muss rechenschaftsfähig sein: Warum dieses Argument? Warum diese 
+Quelle? Warum diese Schlussfolgerung? Wer seinen eigenen Denkweg nicht 
+mehr rekonstruieren kann, hat keine Ko-Autorenschaft ausgeübt – sondern 
+delegiert.
+
+> **Leitfrage für Lernende:** «Könnte ich dieses Ergebnis verteidigen, 
+> wenn ich kein Internet und keine KI hätte – nur mein eigenes Denken?»
 
 ---
 
