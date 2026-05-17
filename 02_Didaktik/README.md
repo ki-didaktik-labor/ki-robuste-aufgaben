@@ -10,7 +10,7 @@ Genau hier setzen **KI-robuste Aufgaben** an.
 
 ---
 
-## 🎯 Was sind KI-robuste Aufgaben?
+## Was sind KI-robuste Aufgaben?
 
 **KI-robust** bedeutet nicht "KI-sicher" im Sinne von Kontrolle oder Verhinderung. Es bedeutet: Aufgaben, bei denen KI als kognitives Werkzeug **produktiv eingebunden** werden kann – ohne dass der Lernprozess zur bloßen Reproduktion wird.
 
@@ -27,7 +27,7 @@ Genau hier setzen **KI-robuste Aufgaben** an.
 
 ---
 
-## 📖 Aufbau dieser Sektion
+## Aufbau dieser Sektion
 
 ### [01. Was sind KI-robuste Aufgaben?](01_Was_sind_KI-robuste_Aufgaben.md)
 **Definition, Abgrenzung und Positionierung**
@@ -67,7 +67,7 @@ Genau hier setzen **KI-robuste Aufgaben** an.
 
 ---
 
-## 💡 Der emanzipatorische Charakter
+## Der emanzipatorische Charakter
 
 KI-robuste Aufgaben folgen einem **emanzipatorischen Bildungsverständnis**:
 
@@ -80,7 +80,7 @@ KI-robuste Aufgaben folgen einem **emanzipatorischen Bildungsverständnis**:
 
 ---
 
-## 🔗 Weiterführende Ebenen
+## Weiterführende Ebenen
 
 **Nach der Theorie (Grundlagen) und den Prinzipien (Didaktik) folgen:**
 
