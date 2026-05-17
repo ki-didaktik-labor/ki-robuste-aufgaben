@@ -66,32 +66,32 @@ In den [Grundlagen](../01_Grundlagen/01_Epistemische_Umbrueche.md) wurden vier z
 
 Aufbauend auf den vier Verschiebungen lassen sich konkrete **Qualitätsmerkmale** formulieren:
 
-### ✓ Prozessorientiert
+### Prozessorientiert
 Der Weg ist mindestens so wichtig wie das Ziel. Die Aufgabe fordert explizit, den Prozess zu dokumentieren und zu reflektieren.
 
 **Beispiel:** "Dokumentiere deinen Prompt-Verlauf. Welche Fragen hast du gestellt? Welche Antworten waren hilfreich – welche nicht?"
 
-### ✓ Metakognitiv
+### Metakognitiv
 Die Aufgabe macht das eigene Denken zum Gegenstand. Lernende reflektieren ihre Denkprozesse, Strategien und Entscheidungen.
 
 **Beispiel:** "Wo hast du der KI vertraut? Wo warst du skeptisch? Begründe deine Einschätzungen."
 
-### ✓ Ko-konstruktiv
+### Ko-konstruktiv
 Die Aufgabe fördert Zusammenarbeit – mit KI, mit Peers, mit Lehrperson. Ko-Autorenschaft wird explizit gemacht.
 
 **Beispiel:** "Entwickelt zu zweit eine Argumentationslinie. Eine:r arbeitet mit KI, eine:r ohne. Vergleicht eure Ergebnisse."
 
-### ✓ Kontextgebunden
+### Kontextgebunden
 Die Aufgabe ist nicht abstrakt-allgemein, sondern bezieht sich auf **authentische Kontexte** und echte Fragestellungen.
 
 **Beispiel:** "Analysiere die Berichterstattung über [aktuelles lokales Ereignis]. Nutze KI zur Recherche, aber bewerte die Quellenlage kritisch."
 
-### ✓ Offen und mehrperspektivisch
+### Offen und mehrperspektivisch
 Es gibt nicht eine richtige Lösung, sondern verschiedene Zugänge. Perspektivenvielfalt wird produktiv gemacht.
 
 **Beispiel:** "Generiere mit einem LLM drei verschiedene Lösungsansätze für Problem X. Welcher ist am überzeugendsten? Entwickle einen vierten, eigenen Ansatz."
 
-### ✓ Fehlerproduktiv
+### Fehlerproduktiv
 Irrtümer, Umwege, Sackgassen werden nicht sanktioniert, sondern als **Lernchancen** verstanden.
 
 **Beispiel:** "Dokumentiere auch die Prompts, die nicht funktioniert haben. Was hast du daraus gelernt?"
@@ -204,23 +204,23 @@ KI-robuste Aufgaben können unterschiedliche Formate annehmen. Hier einige bewä
 
 Bei der Konstruktion KI-robuster Aufgaben gibt es typische Fallstricke:
 
-### ❌ Zu produktfokussiert
+### Zu produktfokussiert
 **Problem:** Die Aufgabe verlangt nur ein Endprodukt, ohne Prozess sichtbar zu machen.  
 **Lösung:** Explizite Prozessdokumentation einfordern (Lerntagebuch, Prompt-Verlauf, Reflexionsfragen).
 
-### ❌ Zu unklar
+### Zu unklar
 **Problem:** Lernende wissen nicht, wie sie KI nutzen dürfen/sollen.  
 **Lösung:** Klare Angaben machen: "Nutze ein LLM deiner Wahl..." / "Dokumentiere deine KI-Nutzung..."
 
-### ❌ Zu kontrolliert
+### Zu kontrolliert
 **Problem:** Die Aufgabe gibt jeden Schritt vor, lässt keinen Raum für eigene Wege.  
 **Lösung:** Offenheit zulassen, verschiedene Lösungswege ermöglichen.
 
-### ❌ Zu abstrakt
+### Zu abstrakt
 **Problem:** Die Aufgabe hat keinen Bezug zur Lebenswelt der Lernenden.  
 **Lösung:** Authentische, kontextgebundene Fragestellungen wählen.
 
-### ❌ Reflexion vergessen
+### Reflexion vergessen
 **Problem:** Die Aufgabe fördert KI-Nutzung, aber keine kritische Reflexion.  
 **Lösung:** Metakognitive Reflexionsfragen explizit einbauen.
 
