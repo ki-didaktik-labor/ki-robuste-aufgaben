@@ -14,7 +14,7 @@ Die tiefere Frage lautet: **Was verändert sich durch KI an unserem Verständnis
 
 Um diese Transformation nicht nur technisch oder pragmatisch, sondern **strukturell** zu verstehen, greifen wir auf drei komplementäre theoretische Perspektiven zurück:
 
-### 📚 [01. Epistemische Umbrüche](01_Epistemische_Umbrueche.md)
+### [01. Epistemische Umbrüche](01_Epistemische_Umbrueche.md)
 **Foucault, Kuhn, Baecker: Wie sich Wissensordnungen verändern**
 
 - **Foucaults Episteme**: Verschiebung der grundlegenden Erkenntnisarchitektur
@@ -22,7 +22,7 @@ Um diese Transformation nicht nur technisch oder pragmatisch, sondern **struktur
 - **Baeckers Leitmedien**: Gesellschaftliche Reorganisation durch neue Medien
 - **Synthese**: Von Wissen als Mangelware zu Wissen als Überschuss
 
-### 🧠 [02. Lerntheorie](02_Lerntheorie.md)
+### [02. Lerntheorie](02_Lerntheorie.md)
 **Sozio-Konstruktivismus: Lernen als soziale Ko-Konstruktion**
 
 - Vom radikalen Konstruktivismus zum Sozio-Konstruktivismus
@@ -30,7 +30,7 @@ Um diese Transformation nicht nur technisch oder pragmatisch, sondern **struktur
 - Dimensionen des Lernens (Wie? Was? Warum? Wodurch?)
 - Lernen unter Bedingungen der Digitalität
 
-### 🌐 [03. Kultur der Digitalität](03_Kultur_der_Digitalitaet.md)
+### [03. Kultur der Digitalität](03_Kultur_der_Digitalitaet.md)
 **Von der Wissensvermittlung zur Kompetenzbefähigung**
 
 - Stalders Grundformen: Referentialität, Gemeinschaftlichkeit, Algorithmizität
@@ -38,7 +38,7 @@ Um diese Transformation nicht nur technisch oder pragmatisch, sondern **struktur
 - Die 4K-Skills (Kreativität, kritisches Denken, Kollaboration, Kommunikation)
 - Merkmale zeitgemäßen Lernens
 
-### 🔮 [04. Ausblick und offene Fragen](04_Ausblick.md)
+### [04. Ausblick und offene Fragen](04_Ausblick.md)
 **Kritische Reflexionen und weiterführende Perspektiven**
 
 - Gefahr des Technologiedeterminismus
@@ -54,7 +54,7 @@ Vollständige Quellenangaben zu allen zitierten Werken.
 
 ---
 
-## 💡 Zentrale These
+## Zentrale These
 
 > **Wissen verschiebt sich von der Mangelware zum Überschuss.**  
 > In der Kultur der Digitalität ist nicht mehr Zugang das Problem, sondern **Kuration, Kontextualisierung und kritische Einordnung**.  
