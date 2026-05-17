@@ -21,15 +21,15 @@ KI-robuste Aufgaben:
 
 Um Missverständnisse zu vermeiden, ist es wichtig zu klären, was KI-robuste Aufgaben **nicht** sind:
 
-### ❌ Nicht: KI-sicher oder KI-frei
+### Nicht: KI-sicher oder KI-frei
 
 KI-robuste Aufgaben versuchen nicht, KI auszuschließen oder zu verhindern. Sie gehen davon aus, dass KI verfügbar ist – in der Schule und außerhalb.
 
-### ❌ Nicht: Kontrolliert oder geschlossen
+### Nicht: Kontrolliert oder geschlossen
 
 Es geht nicht darum, spezielle "sichere" KI-Systeme zu bauen, die nur bestimmte Antwortmuster zulassen. KI-robuste Aufgaben arbeiten mit Standard-LLMs wie ChatGPT, Claude oder anderen frei verfügbaren Tools.
 
-### ❌ Nicht: Technikzentriert
+### Nicht: Technikzentriert
 
 Der Fokus liegt nicht auf der Technologie selbst, sondern auf dem **Lernprozess** und den **Kompetenzen**, die Lernende entwickeln.
 
